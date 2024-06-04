@@ -1,0 +1,21 @@
+h3{
+	border-bottom: 3px solid red;
+	width: 200px;
+	font-family: georgia;
+	border-right: 3px solid red;
+	box-shadow: 2px 2px 4px black;
+}
+img{ 
+	height: 200px;
+	width: 200px;
+	margin: 6px;
+	transition: all 1s;	
+}
+.edirin :hover{
+      transform: scale(1.1);
+}
+.edirin{
+	 display: flex;
+	 flex-wrap: wrap;
+	 justify-content: center;
+}
